@@ -8,4 +8,4 @@ Step 2 - Visualisng the data
 Step 3 - Finding the optimum number of clusters
 Step 4 - Applying k means clustering on the data
 Step 5 - Visualising the clusters*
-Dataset link:-
+Dataset link:- https://github.com/VidyaNarute/Sparks-Foundation_Data-Science-Business-Analytics/blob/26c442d2925d89c66ae1bcf1821e72b000a363c7/Iris.csv
